@@ -12,10 +12,10 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
     //var realE = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/realE.json";
     //var deli = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/deli.json";
 
-    var school = "https://raw.githubusercontent.com/TestMapboxparkslope/school.json";
-    var smallB = "https://raw.githubusercontent.com/TestMapboxparkslope/smallB.json";
-    var realE = "https://raw.githubusercontent.com/TestMapboxparkslope/realE.json";
-    var deli = "https://raw.githubusercontent.com/TestMapboxparkslope/deli.json";
+    var school = "https://raw.githubusercontent.com/djiang0393/TestMapboxparkslope.github.io/school.json";
+    var smallB = "https://raw.githubusercontent.com/djiang0393/TestMapboxparkslope.github.io/smallB.json";
+    var realE = "https://raw.githubusercontent.com/djiang0393/TestMapboxparkslope.github.io/realE.json";
+    var deli = "https://raw.githubusercontent.com/djiang0393/TestMapboxparkslope.github.io/deli.json";
 
 
     // east williamsburg
@@ -24,10 +24,10 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
     //var eastRealE = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/eastReal.json";
     //var eastDeli = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/eastDeli.json";
 
-    var eastSchool = "https://raw.githubusercontent.com/TestMapboxparkslope/eastSchool.json";
-    var eastSmallB = "https://raw.githubusercontent.com/TestMapboxparkslope/eastSmallB.json";
-    var eastRealE = "https://raw.githubusercontent.com/TestMapboxparkslope/eastReal.json";
-    var eastDeli = "https://raw.githubusercontent.com/TestMapboxparkslope/eastDeli.json";
+    var eastSchool = "https://raw.githubusercontent.com/djiang0393/TestMapboxparkslope.github.io/eastSchool.json";
+    var eastSmallB = "https://raw.githubusercontent.com/djiang0393/TestMapboxparkslope.github.io/eastSmallB.json";
+    var eastRealE = "https://raw.githubusercontent.com/djiang0393/TestMapboxparkslope.github.io/eastReal.json";
+    var eastDeli = "https://raw.githubusercontent.com/djiang0393/TestMapboxparkslope.github.io/eastDeli.json";
 
 
     map.on('load', () => {
