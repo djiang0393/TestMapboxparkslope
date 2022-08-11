@@ -7,16 +7,27 @@ mapboxgl.accessToken = 'pk.eyJ1IjoidGhlZHlpbmdkcmFnb24iLCJhIjoiY2szNWN0MGsyMDI2O
     });
 
     // harlem
-    var school = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/school.json";
-    var smallB = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/smallB.json";
-    var realE = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/realE.json";
-    var deli = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/deli.json";
+    //var school = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/school.json";
+    //var smallB = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/smallB.json";
+    //var realE = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/realE.json";
+    //var deli = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/deli.json";
+
+    var school = "https://raw.githubusercontent.com/TestMapboxparkslope/school.json";
+    var smallB = "https://raw.githubusercontent.com/TestMapboxparkslope/smallB.json";
+    var realE = "https://raw.githubusercontent.com/TestMapboxparkslope/realE.json";
+    var deli = "https://raw.githubusercontent.com/TestMapboxparkslope/deli.json";
+
 
     // east williamsburg
-    var eastSchool = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/eastSchool.json";
-    var eastSmallB = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/eastSmallB.json";
-    var eastRealE = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/eastReal.json";
-    var eastDeli = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/eastDeli.json";
+    //var eastSchool = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/eastSchool.json";
+    //var eastSmallB = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/eastSmallB.json";
+    //var eastRealE = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/eastReal.json";
+    //var eastDeli = "https://raw.githubusercontent.com/testMapBox/testMapBox.github.io/main/eastDeli.json";
+
+    var eastSchool = "https://raw.githubusercontent.com/TestMapboxparkslope/eastSchool.json";
+    var eastSmallB = "https://raw.githubusercontent.com/TestMapboxparkslope/eastSmallB.json";
+    var eastRealE = "https://raw.githubusercontent.com/TestMapboxparkslope/eastReal.json";
+    var eastDeli = "https://raw.githubusercontent.com/TestMapboxparkslope/eastDeli.json";
 
 
     map.on('load', () => {
